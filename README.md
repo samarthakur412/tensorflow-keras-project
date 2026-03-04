@@ -52,8 +52,8 @@ The dataset used in this project is sourced from **LendingClub**, comprising loa
 ### 1️⃣ Clone the repository:
 
 ```bash
-git clone https://github.com/samarthakur412/TensorFlow-Keras-API-Project.git
-cd TensorFlow-Keras-API-Project
+git clone https://github.com/samarthakur412/tensorflow-keras-project.git
+cd tensorflow-keras-project
 ```
 
 ### 2️⃣ Install dependencies:
